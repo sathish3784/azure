@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "test" {
-  name     = "acceptanceTestResourceGroup3"
+  name     = "acceptanceTestResourceGroup4"
   location = "West US"
 }
